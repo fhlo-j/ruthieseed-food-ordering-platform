@@ -31,11 +31,5 @@ operations through an admin dashboard.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
-## 🌍 Live Demo
-(Add live link if public)
-
-## 📸 Screenshots
-(Add screenshots here)
-
 ## 📌 Status
 Completed
